@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN,yt3.googleusercontent.com
+  - DOMAIN,suggestqueries.google.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,youtube.googleapis.com
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,ytimg
+  - DOMAIN-KEYWORD,youtu

@@ -1,0 +1,27 @@
+payload:
+  - DOMAIN-KEYWORD,tiktokcdn
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN,mon16-platform-useast5.us.tiktokv.com
+  - DOMAIN,pitaya.us.tiktokv.com
+  - DOMAIN,libra16-platform-useast5.us.tiktokv.com
+  - DOMAIN,oec16-normal-useast5.us.tiktokv.com
+  - DOMAIN,p19-sign.tiktokcdn-us.com
+  - DOMAIN,api16-core-useast5.us.tiktokv.com
+  - DOMAIN,vcs16-platform-useast5.us.tiktokv.com
+  - DOMAIN,tnc16-platform-useast5.us.tiktokv.com
+  - DOMAIN,p16-sign.tiktokcdn-us.com
+  - DOMAIN,p16-sign-sg.tiktokcdn.com
+  - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+  - DOMAIN,webcast16-normal-useast5.us.tiktokv.com
+  - DOMAIN,bsync.us.tiktokv.com
+  - DOMAIN,jsb16-platform-useast5.us.tiktokv.com
+  - DOMAIN,v16m.tiktokcdn-us.com
+  - DOMAIN,v19.tiktokcdn-us.com
+  - DOMAIN,ug-attribution.us.tiktokv.com
+  - DOMAIN,hotapi16-platform-useast5.us.tiktokv.com
+  - DOMAIN,api16-normal-useast5.us.tiktokv.com
+  - DOMAIN,log16-applog-useast5.us.tiktokv.com
+  - DOMAIN,mssdk16-platform-useast5.us.tiktokv.com
+  - DOMAIN,lf19-geckocdn.tiktokcdn-us.com
+  - DOMAIN,gecko16-platform-useast5.us.tiktokv.com
