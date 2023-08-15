@@ -58,3 +58,5 @@ payload:
   - IP-CIDR,172.217.163.0/24,no-resolve
   - IP-CIDR,172.217.160.0/24,no-resolve
   - IP-CIDR,172.217.27.0/24,no-resolve
+  - IP-CIDR,2404:6800:4012:2::200e/128,no-resolve
+  - IP-CIDR,2404:6800:4012:3::200a/128,no-resolve
