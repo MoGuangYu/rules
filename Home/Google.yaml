@@ -61,3 +61,4 @@ payload:
   - IP-CIDR,2404:6800:4012:2::200e/128,no-resolve
   - IP-CIDR,2404:6800:4012:3::200a/128,no-resolve
   - IP-CIDR,2404:6800:4012:4::200a/128,no-resolve
+  - IP-CIDR,2404:6800:4012:2::200a/128,no-resolve
