@@ -13,3 +13,4 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,ytimg
   - DOMAIN-KEYWORD,youtu
+  - IP-CIDR,142.250.66.0/24,no-resolve
