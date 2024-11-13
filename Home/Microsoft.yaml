@@ -676,4 +676,5 @@ payload:
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
   - PROCESS-NAME,OneDrive
-  - PROCESS-NAME,OneDriveUpdater
+  - PROCESS-NAME,OneDriveUpdate
+  - DOMAIN-SUFFIX,linkedin.com
